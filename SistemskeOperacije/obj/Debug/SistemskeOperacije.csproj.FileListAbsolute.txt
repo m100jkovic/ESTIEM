@@ -1,0 +1,54 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\ESTIEM.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\bin\Debug\Sesija.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
