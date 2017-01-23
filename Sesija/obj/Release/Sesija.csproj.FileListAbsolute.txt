@@ -1,0 +1,7 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Release\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Release\Sesija.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Release\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Release\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Release\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Release\Sesija.pdb

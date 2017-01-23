@@ -1,0 +1,41 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\obj\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Sesija\obj\Debug\Sesija.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\Sesija.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\ResolveAssemblyReference.cache
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\Sesija.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\Sesija.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\Sesija.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\Sesija.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\ESTIEM.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\bin\Debug\ESTIEM.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\Sesija.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Sesija\obj\Debug\Sesija.pdb
