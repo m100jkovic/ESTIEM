@@ -1,0 +1,100 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.exe
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.csprojResolveAssemblyReference.cache
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.exe
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPregledAktivnostiKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosProjekta.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaProjekta.resources
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaUcesnikaProjekta.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\bin\Debug\Klijent.exe
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaProjekta.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaUcesnikaProjekta.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPregledAktivnostiKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosProjekta.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Klijent\obj\x86\Debug\Klijent.csproj.GenerateResource.Cache
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\Klijent.exe
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaKorisnika.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaProjekta.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaUcesnikaProjekta.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPregledAktivnostiKorisnika.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosProjekta.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\Klijent.exe
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\Klijent.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\ESTIEM.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\bin\Debug\ESTIEM.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.csprojResolveAssemblyReference.cache
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaKorisnika.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaProjekta.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaIzmenaUcesnikaProjekta.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaAdmin.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPocetnaKorisnik.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaPregledAktivnostiKorisnika.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosKorisnika.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormaUnosProjekta.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.FormLogin.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.csproj.GenerateResource.Cache
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.exe
+d:\Milan Stojkovic 142-09-i\ESTIEM\Klijent\obj\x86\Debug\Klijent.pdb

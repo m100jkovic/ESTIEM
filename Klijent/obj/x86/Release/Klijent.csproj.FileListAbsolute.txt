@@ -1,0 +1,14 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Release\Klijent.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Release\Klijent.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Release\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\bin\Release\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.FormaPocetnaAdmin.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.FormaPocetnaKorisnik.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.FormLogin.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.Properties.Resources.resources
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Klijent\obj\x86\Release\Klijent.FormaUnosKorisnika.resources
