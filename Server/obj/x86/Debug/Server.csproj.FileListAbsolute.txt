@@ -1,0 +1,68 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Server.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Server.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.exe
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\Server.exe
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\Server.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.dll
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.pdb
+d:\F O N\IV godina\Projektovanje softvera\Seminarski rad\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.exe
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Server.exe
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Server.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\obj\x86\Debug\Server.exe
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\obj\x86\Debug\Server.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\Server.exe
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\Server.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\ESTIEM.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\Sesija.dll
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\bin\Debug\Sesija.pdb
+C:\Users\Mina\Desktop\Seminarski-final\ESTIEM\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.exe
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Server.exe
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Server.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\ESTIEM.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Sesija.dll
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Sesija.pdb
+E:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.exe
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Server.exe
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Server.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\ESTIEM.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\SistemskeOperacije.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Sesija.dll
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\ESTIEM.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\SistemskeOperacije.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\bin\Debug\Sesija.pdb
+d:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+g:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.exe
+g:\Milan Stojkovic 142-09-i\ESTIEM\Server\obj\x86\Debug\Server.pdb

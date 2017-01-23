@@ -1,0 +1,11 @@
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\Server.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\Server.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\ESTIEM.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\SistemskeOperacije.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\Sesija.dll
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\ESTIEM.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\SistemskeOperacije.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\bin\Release\Sesija.pdb
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Release\Server.exe
+C:\Users\Milan\Desktop\Seminarski novi\ESTIEM\Server\obj\x86\Release\Server.pdb
